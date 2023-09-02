@@ -1,6 +1,8 @@
-# Arkeo Network
+
+
 ![image](https://github.com/molla202/Arkeo-Network/assets/91562185/02c57bf5-613c-4637-98ea-461fdc85e76f)
 
+<h1 align="center"> Arkeo Network </h1>
 
 ## Sistem Gereksinimleri
 | Bileşenler | Minimum Gereksinimler | 
@@ -8,6 +10,14 @@
 | CPU |	4|
 | RAM	| 8+ GB |
 | Storage	| 500 GB SSD |
+
+
+
+ * [Topluluk kanalımız](https://t.me/corenodechat)<br>
+ * [Topluluk Twitter](https://twitter.com/corenodeHQ)<br>
+ * [Arkeo Network Website](https://arkeo.network/)<br>
+ * [Blockchain Explorer](https://explorer.nodexcapital.com/arkeo/)<br>
+
 
 
 ### Update ve kütüphane kuruyoruz

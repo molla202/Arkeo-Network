@@ -16,7 +16,7 @@
 | RAM	| 8+ GB |
 | Storage	| 500 GB SSD |
 
-👉 Not: Aşağıdaki linkten form doldurup coin istiyoruz. herhangi bir ödül yok.
+👉 Not:  linkten form doldurup coin istiyoruz. herhangi bir ödül yok.
 https://forms.gle/aM6sc73qtxenRxf37
 
 ### Update ve kütüphane kuruyoruz
